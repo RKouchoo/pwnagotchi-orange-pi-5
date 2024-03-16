@@ -2,9 +2,9 @@
 Commands and build scripts used to get pwnagotchi going on an Orange Pi 5 
 
 # pre rec
-`sudo apt-get install golang-go`
-`sudo apt-get install libusb-1.0`
-`sudo apt-get install libpcap0.8-dev`
+`sudo apt-get install golang-go` \n
+`sudo apt-get install libusb-1.0`     
+`sudo apt-get install libpcap0.8-dev`     
 
 Lets install bettercap and do the initial setup
 
